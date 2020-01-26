@@ -19,5 +19,5 @@ module "ec2_instance" {
 | Name | Description | Type | Default | Required |
 |------|-------------|:----:|:-----:|:-----:|
 | region | AWS region | string | us-east-1 | yes |
-| key-name | ec2 access key name | string | yes |
+| key-name | ec2 access key name | string | ec2-terraform-jenkins | yes | 
 | instance_type | ec2 instance_type | string | t2.micro | yes |

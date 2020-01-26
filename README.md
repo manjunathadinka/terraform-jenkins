@@ -1,6 +1,5 @@
 # terraform-jenkins
-Provisioning Jenkins server using Terraform “Infrastructure as a code” principle.
-# Jenkins Install in EC2 Instance
+# Provisioning Jenkins server using Terraform “Infrastructure as a code” principle.
 
 
 ## Usage
